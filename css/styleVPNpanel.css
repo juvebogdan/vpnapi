@@ -1,0 +1,46 @@
+.All {
+	float: left;
+	height: 100%;
+	width: 100%;
+	background-color: #CCC;
+}
+.main {
+	float: left;
+	height: 100%;
+	width: 76%;
+	margin-right: 10%;
+	margin-left: 10%;
+	background-color: #FFF;
+	padding-left: 2%;
+	padding-right: 2%;
+}
+.mainhalf {
+	float: left;
+	height: 200px;
+	width: 38%;
+	margin-left: 10%;
+	background-color: #FFF;
+	padding-left: 2%;
+}
+.mainhalfright {
+	float: left;
+	height: 200px;
+	width: 38%;
+	margin-right: 10%;
+	background-color: #FFF;
+	padding-left: 2%;
+}
+.MainNoPad {
+	float: left;
+	height: 100%;
+	width: 80%;
+	margin-right: 10%;
+	margin-left: 10%;
+	background-color: #FFF;
+}
+.quarter {
+	background-color: #FFF;
+	float: left;
+	height: 100%;
+	width: 25%;
+}
